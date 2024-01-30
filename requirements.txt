@@ -1,3 +1,5 @@
 docx2txt
 openai
 python-dotenv
+pdfminer.six
+nltk
